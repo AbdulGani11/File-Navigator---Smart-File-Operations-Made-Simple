@@ -63,6 +63,7 @@ python file-navigator.py
 
 ⚡ File Navigator
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🎯 Choose an Operation
 
 | Option | Description                     |
