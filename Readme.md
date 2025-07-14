@@ -62,7 +62,7 @@ python file-navigator.py
 ### Interactive Menu
 
 ⚡ File Navigator
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 Choose an Operation
 
 | Option | Description                     |
